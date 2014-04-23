@@ -36,9 +36,6 @@ define ( 'MTPHR_DNT_VERSION', '1.4.8' );
 define ( 'MTPHR_DNT_DIR', plugin_dir_path(__FILE__) );
 define ( 'MTPHR_DNT_URL', plugins_url().'/ditty-news-ticker' );
 
-// Uncomment next line only for testing
-//define ( 'MTPHR_DNT_VERSION', '1.4.6-'.time() );
-
 
 
 /* --------------------------------------------------------- */

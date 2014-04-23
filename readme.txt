@@ -239,4 +239,4 @@ Each individual Ticker post has multiple settings to customize.
 
 == Upgrade Notice ==
 
-Font icon updates. Moved news ticker title to "mtphr_dnt_before" action.
+Fixed icon font display issue in admin. Font icon updates. Moved news ticker title to "mtphr_dnt_before" action.
