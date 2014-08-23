@@ -29,15 +29,12 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 
 /* --------------------------------------------------------- */
-/* !Define constants - 1.4.8 */
+/* !Define constants - 1.4.9 */
 /* --------------------------------------------------------- */
 
 define ( 'MTPHR_DNT_VERSION', '1.4.9' );
 define ( 'MTPHR_DNT_DIR', plugin_dir_path(__FILE__) );
 define ( 'MTPHR_DNT_URL', plugins_url().'/ditty-news-ticker' );
-
-// Uncomment next line only for testing
-//define ( 'MTPHR_DNT_VERSION', '1.4.6-'.time() );
 
 
 
