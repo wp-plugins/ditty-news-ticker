@@ -3,7 +3,7 @@ Contributors: metaphorcreations
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FUZKZGAJSBAE6
 Tags: ticker, news, news ticker, rotator, data rotator, lists, data
 Requires at least: 3.2
-Tested up to: 3.9
+Tested up to: 3.9.2
 Stable tag: /trunk/
 License: GPL2
 
@@ -55,10 +55,10 @@ Each individual Ticker post has multiple settings to customize.
 == Changelog ==
 
 = 1.4.10 =
-* Fixed icon font display issue in admin
+* Moved plugin files to GitHub
 
 = 1.4.9 =
-* Fixed icon font display issue in admin
+* Added Author support to post type
 
 = 1.4.8 =
 * Removed "data-icon" styles in icon font stylesheet
@@ -245,4 +245,4 @@ Each individual Ticker post has multiple settings to customize.
 
 == Upgrade Notice ==
 
-Fixed icon font display issue in admin. Font icon updates. Moved news ticker title to "mtphr_dnt_before" action.
+Moved plugin files to GitHub.
